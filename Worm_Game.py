@@ -14,8 +14,8 @@ class Food:
         self.length = 1
 
     def create_food(self):
-        x = random.randint(1, 1200 / 20)
-        y = random.randint(1, 880 / 20)
+        x = random.randint(1, 1200 // 20)
+        y = random.randint(1, 880 // 20)
         self.position = [[x * 20, y * 20]]
 
     def draw_food(self, screen):
