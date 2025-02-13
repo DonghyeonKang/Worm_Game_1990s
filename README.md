@@ -1,5 +1,5 @@
 # Worm_Game
-Python 으로 구현한 지렁이 게임입니다! :bug:
+Python 으로 구현한 지렁이 게임입니다! :bug:  
 그때 그 시절 지렁이 게임을 구현해내기 위해 노력하는 중 입니다. :raised_hands:
 
 ## 버전
